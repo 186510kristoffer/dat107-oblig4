@@ -3,9 +3,11 @@
 *.log
 *.tmp
 
-# Eclipse config
-.classpath
-.project
+# Eclipse config (tillat .classpath og .project)
+# .classpath og .project er nødvendig for Eclipse-import
+# derfor kommenteres de ut her, slik at de blir med i repo
+#.classpath
+#.project
 .settings/
 
 # Kompilerte filer
@@ -24,4 +26,8 @@ Thumbs.db
 
 # Ikke ignorer datafiler
 !data/*.json
+
+# Tillat Eclipse-prosjektfiler
+!.classpath
+!.project
 
