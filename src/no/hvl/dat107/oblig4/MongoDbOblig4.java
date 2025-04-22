@@ -24,8 +24,9 @@ public class MongoDbOblig4 {
         // ------------------------------------------
         heading("Loading data ...");
         repoLoad.loadCollection("kunde", "kunde.json");
-        repoLoad.loadCollection("vare", "vare.json");
-        repoLoad.loadCollection("ordre", "ordre.json");
+        repoLoad.loadCollection("ordre", "ordre_fixed.json");//la til en fikset versjon av filen i data
+        repoLoad.loadCollection("vare", "vare_fixed.json");// måtte endre format på begge
+
 
         
         
@@ -41,7 +42,7 @@ public class MongoDbOblig4 {
         } else {
         	System.out.println("INFO: Kundenr 5002 finnes ikke.");
         }
-        
+        /*
         // ------------------------------------------
         // Oppgave 4 e) Legg til ny kunde 
         // ------------------------------------------
@@ -87,7 +88,7 @@ public class MongoDbOblig4 {
             } else {
             	System.out.println("INFO: Kundenr 5002 finnes ikke.");
             }
-        }
+        }*/
 
     }
 
@@ -96,6 +97,6 @@ public class MongoDbOblig4 {
 		System.out.println("");
 		System.out.println(line);
 		System.out.println("-- " + msg);
-		System.out.println(line);
+		System.out.println(line); 
 	}
 }

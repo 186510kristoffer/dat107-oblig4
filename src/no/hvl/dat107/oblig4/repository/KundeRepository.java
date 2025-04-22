@@ -26,9 +26,10 @@ public class KundeRepository {
 		this.kunder = db.getCollection("kunde", Kunde.class);
 	}
 	
-	public /* TODO */ findByKnr(/* TODO */) {
-		/* TODO */
+	public Kunde findByKnr(int knr) {
+	    return collection.find(eq("knr", knr)).first();
 	}
+
 
 	public /* TODO */ save(/* TODO */) {
 		/* TODO */
