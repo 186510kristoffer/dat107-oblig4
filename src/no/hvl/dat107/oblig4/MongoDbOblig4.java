@@ -23,7 +23,10 @@ public class MongoDbOblig4 {
         // Tips! use repoLoad.loadCollection()
         // ------------------------------------------
         heading("Loading data ...");
-        /* TODO */
+        repoLoad.loadCollection("kunde", "kunde.json");
+        repoLoad.loadCollection("vare", "vare.json");
+        repoLoad.loadCollection("ordre", "ordre.json");
+
         
         
         // ------------------------------------------
