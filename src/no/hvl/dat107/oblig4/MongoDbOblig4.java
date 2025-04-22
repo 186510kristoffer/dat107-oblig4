@@ -35,7 +35,7 @@ public class MongoDbOblig4 {
         // ------------------------------------------
         heading("Finding Kundenr = 5002");
         
-        // TODO: Fullfør metoden findByKnr i KundeRepository
+        // TODO: Fullfør metoden findByKnr i KundeRepository(tror jeg har gjort det, funker delvis)
         Kunde kunde = repoKunde.findByKnr(5002);
         if (kunde != null) {
         	System.out.println(kunde);
