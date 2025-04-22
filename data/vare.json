@@ -1,0 +1,485 @@
+[
+  {
+    "json_build_object":"{\"vnr\" : \"10820\", \"betegnelse\" : \"Dukkehår, hvitt\", \"pris\" : 53.50, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"10822\", \"betegnelse\" : \"Dukkehår, lys brunt\", \"pris\" : 53.50, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"10830\", \"betegnelse\" : \"Nisseskjegg, 30 cm\", \"pris\" : 66.50, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"10835\", \"betegnelse\" : \"Trollhår, hvitt\", \"pris\" : 95.00, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"10854\", \"betegnelse\" : \"Bomullsgarn, grått\", \"pris\" : 45.50, \"kategori\" : \"Tekstil, søm og strikking\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"11630\", \"betegnelse\" : \"Skinnsnor, natur\", \"pris\" : 53.50, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12054\", \"betegnelse\" : \"Hengebjørk\", \"pris\" : 412.50, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12055\", \"betegnelse\" : \"Røsslyng\", \"pris\" : 274.50, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12056\", \"betegnelse\" : \"Einer 'Blåmann'\", \"pris\" : 220.50, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12088\", \"betegnelse\" : \"Einer 'Tyrihans'\", \"pris\" : 247.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12089\", \"betegnelse\" : \"Gran, standard\", \"pris\" : 166.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12090\", \"betegnelse\" : \"Hvitgran\", \"pris\" : 221.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12091\", \"betegnelse\" : \"Sølvgran 'Globosa'\", \"pris\" : 329.50, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"12092\", \"betegnelse\" : \"Europabarlind\", \"pris\" : 274.50, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"13001\", \"betegnelse\" : \"Glasskuler, 100 gr\", \"pris\" : 44.00, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"15207\", \"betegnelse\" : \"Antron garn, hvit\", \"pris\" : 28.50, \"kategori\" : \"Fiske\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"15208\", \"betegnelse\" : \"Antron garn, gul\", \"pris\" : 28.50, \"kategori\" : \"Fiske\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"15211\", \"betegnelse\" : \"Tubeflue verktøy\", \"pris\" : 240.00, \"kategori\" : \"Fiske\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"15217\", \"betegnelse\" : \"Kram tørrfluekorker, 5stk\", \"pris\" : 37.00, \"kategori\" : \"Fiske\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"15559\", \"betegnelse\" : \"Kakepapir, sølv\", \"pris\" : 44.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"20936\", \"betegnelse\" : \"Fjær, natur\", \"pris\" : 29.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"20980\", \"betegnelse\" : \"Naturfjær\", \"pris\" : 31.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21032\", \"betegnelse\" : \"Furuspon, 3 cm\", \"pris\" : 66.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21034\", \"betegnelse\" : \"Parasoll, 2.5 m, stål\", \"pris\" : 580.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21037\", \"betegnelse\" : \"Figurtråd, 50 m\", \"pris\" : 338.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21510\", \"betegnelse\" : \"Ispinner, 100 stk\", \"pris\" : 40.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21514\", \"betegnelse\" : \"Cocktailpinner, 100 st\", \"pris\" : 32.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21515\", \"betegnelse\" : \"Blomsterpinner, 5 stk\", \"pris\" : 31.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21517\", \"betegnelse\" : \"Tannpirkere, 100 stk\", \"pris\" : 18.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"21580\", \"betegnelse\" : \"Sponflis, natur\", \"pris\" : 15.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22002\", \"betegnelse\" : \"Fyrstikker, 150gr\", \"pris\" : 63.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22054\", \"betegnelse\" : \"Vannkanne, 5 ltr.\", \"pris\" : 81.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22055\", \"betegnelse\" : \"Bensinkanne 5 ltr., grønn\", \"pris\" : 246.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22056\", \"betegnelse\" : \"Nettingbøtte, plast\", \"pris\" : 150.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22165\", \"betegnelse\" : \"Hafa gressklipper G8, bensin\", \"pris\" : 6210.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22179\", \"betegnelse\" : \"Hafa gresklipper G9, elektrisk\", \"pris\" : 1656.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"22870\", \"betegnelse\" : \"Dukkeøyne, 7 mm blå\", \"pris\" : 24.00, \"kategori\" : \"Dukker og nisser\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25079\", \"betegnelse\" : \"Trillebår\", \"pris\" : 384.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25121\", \"betegnelse\" : \"Hafa elektrisk hekksaks Z3\", \"pris\" : 481.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25131\", \"betegnelse\" : \"Juwa Motorsag XY65\", \"pris\" : 1240.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25136\", \"betegnelse\" : \"Juwa Anleggspade\", \"pris\" : 207.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25137\", \"betegnelse\" : \"Juwa Snøskuffe, standard\", \"pris\" : 262.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25138\", \"betegnelse\" : \"Grensaks med sideskjær\", \"pris\" : 191.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"25154\", \"betegnelse\" : \"Ljå\", \"pris\" : 317.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"32055\", \"betegnelse\" : \"Juwa Barkespade\", \"pris\" : 150.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"32067\", \"betegnelse\" : \"Juwa Hagerive, 14 rette tinder\", \"pris\" : 108.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"32069\", \"betegnelse\" : \"Stikkspade\", \"pris\" : 177.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"32191\", \"betegnelse\" : \"Formgummi 0.5 l\", \"pris\" : 462.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"32610\", \"betegnelse\" : \"Gipsform lysestaker\", \"pris\" : 122.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"33044\", \"betegnelse\" : \"Blandet blomsterfrø\", \"pris\" : 16.50, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"33045\", \"betegnelse\" : \"Blomkarse\", \"pris\" : 20.50, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"33046\", \"betegnelse\" : \"Brudeslør\", \"pris\" : 17.00, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"33047\", \"betegnelse\" : \"Rød pelargonium\", \"pris\" : 18.00, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"35911\", \"betegnelse\" : \"Meksikansk solsikke\", \"pris\" : 13.50, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"35912\", \"betegnelse\" : \"Stemorsblomst\", \"pris\" : 13.50, \"kategori\" : \"Blomsterfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37710\", \"betegnelse\" : \"Balkongtomat\", \"pris\" : 40.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37720\", \"betegnelse\" : \"Bifftomat\", \"pris\" : 48.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37725\", \"betegnelse\" : \"Gul pottetomat\", \"pris\" : 41.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37730\", \"betegnelse\" : \"Slangeagurk\", \"pris\" : 27.50, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37731\", \"betegnelse\" : \"Sylteagurk\", \"pris\" : 35.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"37732\", \"betegnelse\" : \"Rødløk\", \"pris\" : 31.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"41020\", \"betegnelse\" : \"Hobbyleire terrakotta, 1 kg\", \"pris\" : 108.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"41096\", \"betegnelse\" : \"Blåleire, 10kg\", \"pris\" : 132.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"41097\", \"betegnelse\" : \"Rød leire, 10kg\", \"pris\" : 163.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"41098\", \"betegnelse\" : \"Keramisk leire\", \"pris\" : 95.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42613\", \"betegnelse\" : \"Gipsform klovner\", \"pris\" : 122.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42615\", \"betegnelse\" : \"Gipsform marihøner\", \"pris\" : 122.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42626\", \"betegnelse\" : \"Gipsform fisker m.m.\", \"pris\" : 162.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42929\", \"betegnelse\" : \"Pepperkakeformer\", \"pris\" : 95.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42933\", \"betegnelse\" : \"Former til leire, stjerner\", \"pris\" : 79.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42934\", \"betegnelse\" : \"Former til leire, hjerter\", \"pris\" : 79.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42939\", \"betegnelse\" : \"Pepperkakeformer, 15stk\", \"pris\" : 109.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42941\", \"betegnelse\" : \"Julesett\", \"pris\" : 82.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"42945\", \"betegnelse\" : \"Metallform praliner, 9stk\", \"pris\" : 93.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"43000\", \"betegnelse\" : \"Startsett papir\", \"pris\" : 621.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"43014\", \"betegnelse\" : \"Treramme A4\", \"pris\" : 428.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"43015\", \"betegnelse\" : \"Treramme A5\", \"pris\" : 331.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"44939\", \"betegnelse\" : \"Hobbymaling, 6 farger\", \"pris\" : 132.00, \"kategori\" : \"Hobbymaling\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"45101\", \"betegnelse\" : \"Papirleire, 450 gr\", \"pris\" : 66.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"45105\", \"betegnelse\" : \"Pappmachepulver\", \"pris\" : 52.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"45923\", \"betegnelse\" : \"Krukke med føtter, 12cm\", \"pris\" : 48.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"45935\", \"betegnelse\" : \"Potteskål, diameter 10cm\", \"pris\" : 22.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"46702\", \"betegnelse\" : \"Terrakottafigur katt\", \"pris\" : 82.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"46706\", \"betegnelse\" : \"Sparegris terrakotta\", \"pris\" : 31.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"46738\", \"betegnelse\" : \"Terrakottafat med hjerter\", \"pris\" : 46.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"46741\", \"betegnelse\" : \"Lyskrukke, 4cm\", \"pris\" : 12.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"46745\", \"betegnelse\" : \"Terrakottakrukke 20x10cm\", \"pris\" : 50.50, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"47903\", \"betegnelse\" : \"HaFa snøfreser Maxi\", \"pris\" : 12896.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"49916\", \"betegnelse\" : \"Lezlo leire, brun, 150gr.\", \"pris\" : 29.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"49917\", \"betegnelse\" : \"Lezlo leire, sort, 150 gr.\", \"pris\" : 29.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"49919\", \"betegnelse\" : \"Lezlo leiresett\", \"pris\" : 67.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"49921\", \"betegnelse\" : \"Lezlo leire, økonomipakke\", \"pris\" : 411.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"55112\", \"betegnelse\" : \"HaFa løvblåser AX30\", \"pris\" : 688.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"55129\", \"betegnelse\" : \"Lek med lakris\", \"pris\" : 177.00, \"kategori\" : \"Bøker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"55130\", \"betegnelse\" : \"Moro med marsipan\", \"pris\" : 343.50, \"kategori\" : \"Bøker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"55550\", \"betegnelse\" : \"Juwa jordfreser mx40\", \"pris\" : 1792.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"58028\", \"betegnelse\" : \"Cernit dukkeleire lys\", \"pris\" : 163.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"59915\", \"betegnelse\" : \"Juwa leire grønn, 150 gr.\", \"pris\" : 29.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64509\", \"betegnelse\" : \"Kongelilje, 10 stk.\", \"pris\" : 163.00, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64510\", \"betegnelse\" : \"Lilje mercedes, 10 stk.\", \"pris\" : 177.00, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64511\", \"betegnelse\" : \"Lilje sibir, 20 stk.\", \"pris\" : 261.50, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64550\", \"betegnelse\" : \"Småsymre, 10 stk.\", \"pris\" : 145.00, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64551\", \"betegnelse\" : \"Hengebegonia, 10 stk.\", \"pris\" : 136.00, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"64552\", \"betegnelse\" : \"Storblomstret begonia, 20 stk.\", \"pris\" : 317.00, \"kategori\" : \"Blomsterløker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65032\", \"betegnelse\" : \"Hafa gressklipper skyv\", \"pris\" : 688.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65033\", \"betegnelse\" : \"Hafa Y15 gresstrimmer\", \"pris\" : 1201.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65034\", \"betegnelse\" : \"Hafa SX90 plentraktor\", \"pris\" : 17250.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65060\", \"betegnelse\" : \"Strandtennis\", \"pris\" : 53.50, \"kategori\" : \"Leker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65070\", \"betegnelse\" : \"Boule\", \"pris\" : 136.50, \"kategori\" : \"Leker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65080\", \"betegnelse\" : \"Barnetrillebår\", \"pris\" : 550.00, \"kategori\" : \"Leker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65081\", \"betegnelse\" : \"Plantegreip\", \"pris\" : 129.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65082\", \"betegnelse\" : \"Kvistsag\", \"pris\" : 200.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65122\", \"betegnelse\" : \"Skjermvegg med gresspyd\", \"pris\" : 1792.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65142\", \"betegnelse\" : \"Gressaks, svingbar\", \"pris\" : 107.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65143\", \"betegnelse\" : \"Fruktplukker\", \"pris\" : 96.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65147\", \"betegnelse\" : \"Fluktstol, sammenleggbar\", \"pris\" : 274.50, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65190\", \"betegnelse\" : \"Hageslange, 20 m., grønn\", \"pris\" : 219.50, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65191\", \"betegnelse\" : \"Blomsterkasse\", \"pris\" : 26.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"65247\", \"betegnelse\" : \"Liten plantespade\", \"pris\" : 86.00, \"kategori\" : \"Hageutstyr\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"71912\", \"betegnelse\" : \"Eggemaler med maling\", \"pris\" : 40.00, \"kategori\" : \"Dekorasjoner\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"72777\", \"betegnelse\" : \"Julehobbypakke for barn\", \"pris\" : 177.00, \"kategori\" : \"Hobbypakker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"72942\", \"betegnelse\" : \"Plukksalat\", \"pris\" : 40.50, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"72943\", \"betegnelse\" : \"Brekkbønner\", \"pris\" : 40.50, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"72944\", \"betegnelse\" : \"Sukkererter\", \"pris\" : 48.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"76032\", \"betegnelse\" : \"Kalk, granulert, 25 kg\", \"pris\" : 384.50, \"kategori\" : \"Gjødsel\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77033\", \"betegnelse\" : \"Japanbarlind\", \"pris\" : 412.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77036\", \"betegnelse\" : \"Dvergtuja\", \"pris\" : 412.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77038\", \"betegnelse\" : \"Gul søyletuja\", \"pris\" : 550.00, \"kategori\" : \"Busker\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77249\", \"betegnelse\" : \"Hagebenk, furu\", \"pris\" : 1792.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77251\", \"betegnelse\" : \"Bord, 102 cm diameter\", \"pris\" : 757.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77252\", \"betegnelse\" : \"Stol, hvit plast\", \"pris\" : 39.50, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77276\", \"betegnelse\" : \"Sofagruppe, 2+3\", \"pris\" : 5242.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"77277\", \"betegnelse\" : \"Parasoll, 2.5 meter, stål, kr\", \"pris\" : 412.00, \"kategori\" : \"Hagemøbler\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"78029\", \"betegnelse\" : \"Cernit dukkeleire mørk\", \"pris\" : 163.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"80032\", \"betegnelse\" : \"Arena høst, 25 kg\", \"pris\" : 177.50, \"kategori\" : \"Gjødsel\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"80082\", \"betegnelse\" : \"Aluminiumsulfat, 25 kg\", \"pris\" : 136.50, \"kategori\" : \"Gjødsel\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"80088\", \"betegnelse\" : \"Fullgjødsel, 40 kg\", \"pris\" : 245.00, \"kategori\" : \"Gjødsel\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"80692\", \"betegnelse\" : \"Rørespatel\", \"pris\" : 45.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"81007\", \"betegnelse\" : \"Hobbyleire, hvit 500g\", \"pris\" : 71.50, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"82090\", \"betegnelse\" : \"Matløk\", \"pris\" : 35.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"82092\", \"betegnelse\" : \"Sommergulrot\", \"pris\" : 21.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"82093\", \"betegnelse\" : \"Rund gulrot\", \"pris\" : 28.00, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"82095\", \"betegnelse\" : \"Hodesalat\", \"pris\" : 27.50, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"82096\", \"betegnelse\" : \"Issalat\", \"pris\" : 31.50, \"kategori\" : \"Grønnsaksfrø\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"83013\", \"betegnelse\" : \"Tilda maling teddybrun\", \"pris\" : 53.00, \"kategori\" : \"Hobbymaling\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90106\", \"betegnelse\" : \"Deigskrape av plast\", \"pris\" : 44.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90109\", \"betegnelse\" : \"Metallskrape\", \"pris\" : 46.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90116\", \"betegnelse\" : \"Smaksemne sjokolade 10ml\", \"pris\" : 58.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90164\", \"betegnelse\" : \"Lakrisekstrakt, 100g\", \"pris\" : 86.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90192\", \"betegnelse\" : \"Dropsform skjell\", \"pris\" : 81.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90208\", \"betegnelse\" : \"Form nisse\", \"pris\" : 82.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90209\", \"betegnelse\" : \"Form vingummi\", \"pris\" : 82.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90212\", \"betegnelse\" : \"Form skjell\", \"pris\" : 82.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90510\", \"betegnelse\" : \"Kakestativ\", \"pris\" : 495.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90521\", \"betegnelse\" : \"Kakemønstermaler\", \"pris\" : 163.50, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90531\", \"betegnelse\" : \"Kakekutter\", \"pris\" : 95.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90545\", \"betegnelse\" : \"Kakesprøyte sett\", \"pris\" : 331.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90693\", \"betegnelse\" : \"Marsipantang\", \"pris\" : 66.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"90737\", \"betegnelse\" : \"Startsett lakris\", \"pris\" : 407.00, \"kategori\" : \"Konfekt og marsipan\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"91008\", \"betegnelse\" : \"Hobbyleire, hvit 1 kg\", \"pris\" : 108.00, \"kategori\" : \"Keramikk\"}"
+  },
+  {
+    "json_build_object":"{\"vnr\" : \"92606\", \"betegnelse\" : \"Gipsform nisser 6-14cm\", \"pris\" : 122.00, \"kategori\" : \"Dukker og nisser\"}"
+  }
+]
