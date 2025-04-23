@@ -42,7 +42,7 @@ public class MongoDbOblig4 {
         } else {
         	System.out.println("INFO: Kundenr 5002 finnes ikke.");
         }
-        /*
+        
         // ------------------------------------------
         // Oppgave 4 e) Legg til ny kunde 
         // ------------------------------------------
@@ -88,7 +88,7 @@ public class MongoDbOblig4 {
             } else {
             	System.out.println("INFO: Kundenr 5002 finnes ikke.");
             }
-        }*/
+        }
 
     }
 
